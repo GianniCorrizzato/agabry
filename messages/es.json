@@ -1,0 +1,98 @@
+{
+    "NavbarLinks": {
+      "home": "Inicio",
+      "homeTitle": "Página de inicio",
+      "services": "Servicios",
+      "servicesTitle": "Página de servicios",
+      "apartaments": "Apartamentos",
+      "apartamentsTitle": "Página de apartamentos",
+      "sell": "Compra/Venta",
+      "sellTitle": "Página de compra/venta",
+      "contact": "Contacto",
+      "contactTitle": "Página de contacto",
+      "button": "Iniciar sesión"
+    },
+    "HomePage": {
+      "title": "Agabry",
+      "description": "Una aplicación sencilla que te permite alquilar y vender apartamentos",
+      "button": "Empecemos"
+    },
+    "ServicesPage": {
+      "title": "Servicios",
+      "description": "Bibione ofrece muchos servicios para tus vacaciones: desde windsurf y pesca, hasta la playa, los balnearios, e incluso visitar Venecia y sus atracciones turísticas.",
+      "services": {
+        "title1": "Windsurf",
+        "description1": "Cursos de windsurf para todos los niveles.",
+        "title2": "Pesca",
+        "description2": "Relájate al aire libre mientras pescas.",
+        "title3": "Carril bici",
+        "description3": "Más de 10 km de carril bici frente al mar.",
+        "title4": "Playa",
+        "description4": "Una de las playas más bonitas y limpias de Italia.",
+        "title5": "Casoni",
+        "description5": "Un lugar pintoresco para visitar.",
+        "title6": "Termas",
+        "description6": "Recupera energías con una visita a las termas.",
+        "title7": "Castillo de Miramare",
+        "description7": "A poca distancia se encuentra Trieste y el Castillo de Miramare.",
+        "title8": "Venecia",
+        "description8": "Visita la ciudad de Venecia y sus atracciones turísticas.",
+        "title9": "Restaurantes",
+        "description9": "Después de un día lleno de diversión, tómate un descanso y come en uno de nuestros restaurantes."
+      }
+    },
+    "ApartmentsPage": {
+      "title": "Apartamentos",
+      "description": "En Bibione puedes elegir entre apartamentos en venta de varias agencias. Aquí te presentamos algunos.",
+      "apartaments": {
+        "title1": "Condominio City",
+        "position1": "Via Lemene, 49, Bibione, Italia",
+        "description1": "El Condominio City en Bibione Spiaggia ofrece apartamentos espaciosos a solo 500 m del mar y de las termas, en una zona con múltiples comercios, incluyendo supermercados y alquiler de bicicletas.",
+        "title2": "Condominio Ausonia frente al mar",
+        "position2": "Via Perseo, 80, Bibione, Italia",
+        "description2": "En Bibione, a 400 metros del Lido dei Pini y a 800 metros de la Playa de Pluto, el Condominio Ausonia frente al mar – Gemini ofrece alojamiento con WiFi gratuito y TV de pantalla plana. Ubicado a 200 metros de la Playa de Bibione, cuenta con terraza y aparcamiento privado gratuito.",
+        "title3": "Condominio Gir",
+        "position3": "Via Delfino, 131, Bibione, Italia",
+        "description3": "El Condominio Gir en Bibione ofrece apartamentos espaciosos a solo 100 m del mar y del Lido dei Pini, en una zona con numerosos comercios, incluyendo supermercados y alquiler de bicicletas.",
+        "title4": "Condominio Cormoran",
+        "position4": "Via Veneto, 13, Bibione, Italia",
+        "description4": "El Condominio Cormoran se encuentra en la zona de Bibione Lido del Sole, a 300 metros del Lido del Sole, a 1 km de la Playa de Bibione Pineda y a 1 km de la Playa de Bibione."
+      }
+    },
+    "SalePage": {
+      "title": "Compra/Venta"
+    },
+    "Footer": {
+      "menu": "Menú",
+      "home": "Inicio",
+      "services": "Servicios",
+      "apartaments": "Apartamentos",
+      "sell": "Compra/Venta",
+      "company": "Empresa",
+      "about": "Quiénes somos",
+      "contact": "Contacto",
+      "jobs": "Empleos",
+      "legal": "Legal",
+      "terms": "Términos",
+      "privacy": "Política de privacidad",
+      "cookie": "Política de cookies",
+      "newsletter": "Boletín",
+      "email": "Introduce tu correo electrónico",
+      "subscribe": "Suscribirse"
+    },
+    "contactPage": {
+  "title": "Contáctanos",
+  "description": "Contáctanos para más información sobre nuestras ofertas",
+  "name": "Nombre",
+  "namePlaceholder": "Introduce tu nombre",
+  "email": "Correo electrónico",
+  "emailPlaceholder": "Introduce tu correo electrónico",
+  "message": "Mensaje",
+  "messagePlaceholder": "Escribe tu mensaje.....",
+  "submit": "Enviar mensaje",
+  "success": "Mensaje enviado con éxito",
+  "alert": "Por favor, completa todos los campos"
+}
+
+  }
+  

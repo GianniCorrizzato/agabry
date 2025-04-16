@@ -1,0 +1,97 @@
+{
+    "NavbarLinks": {
+      "home": "Strona główna",
+      "homeTitle": "Strona startowa",
+      "services": "Usługi",
+      "servicesTitle": "Strona usług",
+      "apartaments": "Apartamenty",
+      "apartamentsTitle": "Strona apartamentów",
+      "sell": "Kupno/Sprzedaż",
+      "sellTitle": "Strona kupna/sprzedaży",
+      "contact": "Kontakt",
+      "contactTitle": "Strona kontaktowa",
+      "button": "Zaloguj się"
+    },
+    "HomePage": {
+      "title": "Agabry",
+      "description": "Prosta aplikacja umożliwiająca wynajem i sprzedaż apartamentów",
+      "button": "Zaczynajmy"
+    },
+    "ServicesPage": {
+      "title": "Usługi",
+      "description": "Bibione oferuje wiele usług dla Twojego wypoczynku – od windsurfingu i wędkarstwa, przez plaże i termy, aż po zwiedzanie Wenecji i jej atrakcji turystycznych.",
+      "services": {
+        "title1": "Windsurfing",
+        "description1": "Kursy windsurfingu dla wszystkich poziomów zaawansowania.",
+        "title2": "Wędkarstwo",
+        "description2": "Relaks na świeżym powietrzu podczas wędkowania.",
+        "title3": "Ścieżka rowerowa",
+        "description3": "Ponad 10 km ścieżek rowerowych wzdłuż wybrzeża.",
+        "title4": "Plaża",
+        "description4": "Jedna z najpiękniejszych i najczystszych plaż we Włoszech.",
+        "title5": "Casoni",
+        "description5": "Charakterystyczne miejsce warte odwiedzenia.",
+        "title6": "Termy",
+        "description6": "Odzyskaj siły podczas wizyty w termach.",
+        "title7": "Zamek Miramare",
+        "description7": "Niedaleko znajduje się Triest i zamek Miramare.",
+        "title8": "Wenecja",
+        "description8": "Odwiedź miasto Wenecja i jego atrakcje turystyczne.",
+        "title9": "Restauracje",
+        "description9": "Po dniu pełnym wrażeń zrób sobie przerwę i zjedz w jednej z naszych restauracji."
+      }
+    },
+    "ApartmentsPage": {
+      "title": "Apartamenty",
+      "description": "W Bibione możesz wybierać spośród apartamentów oferowanych przez różne agencje. Oto kilka z nich.",
+      "apartaments": {
+        "title1": "Condominium City",
+        "position1": "Via Lemene, 49, Bibione, Włochy",
+        "description1": "Condominium City w Bibione Spiaggia oferuje przestronne apartamenty, zaledwie 500 m od morza i term, w dzielnicy pełnej sklepów, supermarketów i wypożyczalni rowerów.",
+        "title2": "Condominium Ausonia nad morzem",
+        "position2": "Via Perseo, 80, Bibione, Włochy",
+        "description2": "W Bibione, 400 metrów od Lido dei Pini i 800 metrów od plaży Pluto, Condominium Ausonia nad morzem – Gemini oferuje zakwaterowanie z bezpłatnym Wi-Fi i telewizorem z płaskim ekranem. Obiekt znajduje się 200 metrów od plaży Bibione i posiada taras oraz bezpłatny prywatny parking.",
+        "title3": "Condominium Gir",
+        "position3": "Via Delfino, 131, Bibione, Włochy",
+        "description3": "Condominium Gir w Bibione oferuje przestronne apartamenty zaledwie 100 m od morza i Lido dei Pini, w okolicy pełnej sklepów, supermarketów i wypożyczalni rowerów.",
+        "title4": "Condominium Cormoran",
+        "position4": "Via Veneto, 13, Bibione, Włochy",
+        "description4": "Condominium Cormoran znajduje się w dzielnicy Bibione Lido del Sole, 300 metrów od Lido del Sole, 1 km od plaży Bibione Pineda i 1 km od plaży Bibione."
+      }
+    },
+    "SalePage": {
+      "title": "Kupno/Sprzedaż"
+    },
+    "Footer": {
+      "menu": "Menu",
+      "home": "Strona główna",
+      "services": "Usługi",
+      "apartaments": "Apartamenty",
+      "sell": "Kupno/Sprzedaż",
+      "company": "Firma",
+      "about": "O nas",
+      "contact": "Kontakt",
+      "jobs": "Praca",
+      "legal": "Informacje prawne",
+      "terms": "Regulamin",
+      "privacy": "Polityka prywatności",
+      "cookie": "Polityka cookies",
+      "newsletter": "Newsletter",
+      "email": "Wprowadź swój e-mail",
+      "subscribe": "Zapisz się"
+    },
+    "contactPage": {
+  "title": "Skontaktuj się z nami",
+  "description": "Skontaktuj się z nami, aby uzyskać więcej informacji o naszych ofertach",
+  "name": "Imię",
+  "namePlaceholder": "Wpisz swoje imię",
+  "email": "Email",
+  "emailPlaceholder": "Wpisz swój email",
+  "message": "Wiadomość",
+  "messagePlaceholder": "Napisz swoją wiadomość.....",
+  "submit": "Wyślij wiadomość",
+  "success": "Wiadomość została pomyślnie wysłana",
+  "alert": "Proszę wypełnić wszystkie pola"
+}
+  }
+  

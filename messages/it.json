@@ -1,0 +1,99 @@
+{
+  "NavbarLinks": {
+    "home": "Home",
+    "homeTitle": "Pagina Home",
+    "services": "Servizi",
+    "servicesTitle": "Pagina servizi",
+    "apartaments": "Appartamenti",
+    "apartamentsTitle": "Pagina appartamenti",
+    "sell": "Compravendita",
+    "sellTitle": "Pagina compravendita",
+    "contact": "Contatti",
+    "contactTitle": "Pagina contatti",
+    "button": "Accedi"
+  },
+  "HomePage": {
+    "title": "Agabry",
+    "description": "Una semplice applicazione che ti permette di  affittare e mettere in vendita appartamenti",
+    "button": "Cominciamo"
+  },
+  "ServicesPage": {
+    "title": "Servizi",
+    "description": "Bibione offre molti servizi per la tua vacanza, dal windsurf alla pesca, dalla spiaggia alle terme, fino ad arrivare a visitare Venezia e i suoi luoghi turistici.",
+    "services": {
+      "title1": "Windsurf",
+      "description1": "Corsi di windsurf per tutti i livelli di competizione.",
+      "title2": "Pesca",
+      "description2": "Relax all'aria aperta mentre peschi.",
+      "title3": "Pista ciclabile", 
+      "description3": "Più di 10 km di pista ciclabile sul lungomare.",
+      "title4": "Spiaggia",
+      "description4": "Una delle più belle e pulite spiagge Italiane.", 
+      "title5": "Casoni",
+      "description5": "Un luogo caratteristico da visitare.",
+      "title6": "Thermae",
+      "description6": "Rigenera le tue forze fisiche con una visita alle Terme.",
+      "title7": "Castello di Miramare",
+      "description7": "A poca distanza raggiungi Trieste e il Castello di Miramare.",
+      "title8": "Venezia",
+      "description8": "Visita la città di Venezia e i suoi luoghi turistici.",
+      "title9": "Ristoranti",
+      "description9": "Dopo una giornata di divertimento, prenditi una pausa e mangia in uno dei nostri ristoranti."
+    
+    }
+  },
+  "ApartmentsPage": {
+    "title": "Appartamenti",
+    "description": "A Bibione puoi scegliere tra gli appartamenti che sono in vendita da diverse agenzie. Qui te ne proponiamo alcuni.",
+    "apartaments": {
+      "title1": "Condominio City",
+      "position1": "Via Lemene, 49, Bibione, Italia",
+      "description1": "Il Condominio City a Bibione Spiaggia dispone di appartamenti spaziosi ubicati a soli 500m dal mare e dalle terme in una zona ricca di varie attività commerciali tra cui i supermercati e noleggio di biciclette.",
+      "title2": "Condominio Ausonia al mare",
+      "position2": "Via Perseo, 80, Bibione, Italia",
+      "description2":"A Bibione, a 400 metri da Lido dei Pini e 800 metri da Spiaggia di Pluto, Condominio Ausonia al Mare - Gemini offre un alloggio con servizi quali WiFi gratuito e TV a schermo piatto. Situata a 200 metri da Spiaggia di Bibione, la struttura mette a disposizione una terrazza e il parcheggio privato gratuito.",
+      "title3": "Condominio Gir",
+      "position3": "Via Delfino, 131, Bibione, Italia",
+      "description3": "Condominio Gir a Bibione dispone di appartamenti spaziosi ubicati a soli 100m dal mare e al lido dei pini, in una zona ricca di varie attività commerciali tra cui i supermercati e noleggio di biciclette.",
+      "title4": "Condominio Cormoran",
+      "position4": "Via Veneto, 13, Bibione, Italia",
+      "description4": "Condominio Cormoran si trova in zona Bibione Lido del Sole a Bibione, a 300 metri da Lido del Sole, 1 km da Spiaggia di Bibione Pineda e 1 km da Spiaggia di Bibione."
+    }
+  },
+  "SalePage": {
+    "title": "Compravendita"
+  },
+  "Footer": {
+    "menu": "Menu",
+    "home": "Home",
+    "services": "Servizi",
+    "apartaments": "Appartamenti",
+    "sell": "Compravendita",
+    "company": "Azienda",
+    "about": "Chi siamo",
+    "contact": "Contatti",
+    "jobs": "Lavori",
+    "legal": "Legale",
+    "terms": "Termini",
+    "privacy": "Privacy policy",
+    "cookie": "Cookie policy",
+    "newsletter": "Newsletter",
+    "email": "Inserisci la tua email",
+    "subscribe": "Iscriviti"
+
+},
+  "contactPage": {
+    "title": "Contattaci",
+    "description": "Contattaci per avere maggiori informazioni sulle nostre offerte",
+    "name": "Nome",
+    "namePlaceholder": "Inserisci il tuo nome",
+    "email": "Email",
+    "emailPlaceholder": "Inserisci la tua email",
+    "message": "Messaggio",
+    "messagePlaceholder": "Scrivi il tuo messaggio.....",
+    "submit": "Invia Messaggio",
+    "success": "Messaggio inviato con successo!",
+    "alert": "Compila tutti i campi"
+
+  }
+}

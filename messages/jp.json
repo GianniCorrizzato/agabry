@@ -1,0 +1,98 @@
+{
+    "NavbarLinks": {
+      "home": "ホーム",
+      "homeTitle": "ホームページ",
+      "services": "サービス",
+      "servicesTitle": "サービスページ",
+      "apartaments": "アパート",
+      "apartamentsTitle": "アパートページ",
+      "sell": "売買",
+      "sellTitle": "売買ページ",
+      "contact": "お問い合わせ",
+      "contactTitle": "お問い合わせページ",
+      "button": "ログイン"
+    },
+    "HomePage": {
+      "title": "Agabry",
+      "description": "アパートの賃貸と販売を可能にするシンプルなアプリケーション",
+      "button": "始めましょう"
+    },
+    "ServicesPage": {
+      "title": "サービス",
+      "description": "ビビオーネでは、ウィンドサーフィンや釣り、ビーチ、温泉、そしてヴェネツィア観光まで、さまざまなサービスが提供されています。",
+      "services": {
+        "title1": "ウィンドサーフィン",
+        "description1": "すべてのレベルに対応したウィンドサーフィン教室。",
+        "title2": "釣り",
+        "description2": "アウトドアでリラックスしながら釣りを楽しめます。",
+        "title3": "サイクリングロード",
+        "description3": "海沿いに10km以上のサイクリングロードがあります。",
+        "title4": "ビーチ",
+        "description4": "イタリアで最も美しく清潔なビーチのひとつ。",
+        "title5": "カゾーニ",
+        "description5": "伝統的で魅力的な観光スポット。",
+        "title6": "温泉",
+        "description6": "温泉で心身をリフレッシュしましょう。",
+        "title7": "ミラマーレ城",
+        "description7": "近くにはトリエステとミラマーレ城があります。",
+        "title8": "ヴェネツィア",
+        "description8": "ヴェネツィアとその観光名所を訪れましょう。",
+        "title9": "レストラン",
+        "description9": "楽しい一日の後は、レストランで一休みして食事をどうぞ。"
+      }
+    },
+    "ApartmentsPage": {
+      "title": "アパート",
+      "description": "ビビオーネでは、さまざまな不動産会社が販売するアパートから選ぶことができます。ここではいくつかをご紹介します。",
+      "apartaments": {
+        "title1": "コンドミニアム・シティ",
+        "position1": "Via Lemene, 49, Bibione, イタリア",
+        "description1": "ビビオーネ・スピアッジャにあるコンドミニアム・シティは、海や温泉からわずか500mの場所にあり、スーパーマーケットや自転車レンタルなどの商業施設が豊富なエリアにあります。",
+        "title2": "コンドミニアム・アウソニア・バイ・ザ・シー",
+        "position2": "Via Perseo, 80, Bibione, イタリア",
+        "description2": "ビビオーネのLido dei Piniから400m、Plutoビーチから800mの場所にあるこの施設では、無料Wi-Fiと薄型テレビ付きの宿泊施設を提供しています。Bibioneビーチから200mの距離にあり、テラスと無料の専用駐車場も完備されています。",
+        "title3": "コンドミニアム・ジール",
+        "position3": "Via Delfino, 131, Bibione, イタリア",
+        "description3": "ジールは、海やLido dei Piniからわずか100mの場所にあり、商業施設が豊富なエリアにあります。スーパーマーケットや自転車レンタルも近くにあります。",
+        "title4": "コンドミニアム・コルモラン",
+        "position4": "Via Veneto, 13, Bibione, イタリア",
+        "description4": "コンドミニアム・コルモランは、Bibione Lido del Sole地区に位置し、Lido del Soleから300m、Bibione PinedaビーチとBibioneビーチからそれぞれ1kmの場所にあります。"
+      }
+    },
+    "SalePage": {
+      "title": "売買"
+    },
+    "Footer": {
+      "menu": "メニュー",
+      "home": "ホーム",
+      "services": "サービス",
+      "apartaments": "アパート",
+      "sell": "売買",
+      "company": "会社情報",
+      "about": "私たちについて",
+      "contact": "お問い合わせ",
+      "jobs": "求人",
+      "legal": "法律情報",
+      "terms": "利用規約",
+      "privacy": "プライバシーポリシー",
+      "cookie": "クッキーポリシー",
+      "newsletter": "ニュースレター",
+      "email": "メールアドレスを入力してください",
+      "subscribe": "登録する"
+    },
+    "contactPage": {
+  "title": "お問い合わせ",
+  "description": "私たちのオファーについての詳細情報を得るためにお問い合わせください",
+  "name": "名前",
+  "namePlaceholder": "あなたの名前を入力してください",
+  "email": "メール",
+  "emailPlaceholder": "あなたのメールアドレスを入力してください",
+  "message": "メッセージ",
+  "messagePlaceholder": "あなたのメッセージを入力してください.....",
+  "submit": "メッセージを送信",
+  "success": "メッセージが正常に送信されました",
+  "alert": "すべてのフィールドを入力してください"
+}
+
+  }
+  

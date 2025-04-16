@@ -1,0 +1,97 @@
+{
+  "NavbarLinks": {
+    "home": "Home",
+    "homeTitle": "Home Page",
+    "services": "Services",
+    "servicesTitle": "Services Page",
+    "apartaments": "Apartments",
+    "apartamentsTitle": "Apartments Page",
+    "sell": "Buy/Sell",
+    "sellTitle": "Buy/Sell Page",
+    "contact": "Contact",
+    "contactTitle": "Contact Page",
+    "button": "Login"
+  },
+  "HomePage": {
+    "title": "Agabry",
+    "description": "A simple application that allows you to rent and sell apartments",
+    "button": "Let’s start"
+  },
+  "ServicesPage": {
+    "title": "Services",
+    "description": "Bibione offers many services for your vacation – from windsurfing to fishing, from the beach to the spa, even visiting Venice and its tourist attractions.",
+    "services": {
+      "title1": "Windsurfing",
+      "description1": "Windsurfing courses for all competition levels.",
+      "title2": "Fishing",
+      "description2": "Relax outdoors while fishing.",
+      "title3": "Bike path",
+      "description3": "Over 10 km of bike path along the seafront.",
+      "title4": "Beach",
+      "description4": "One of the most beautiful and cleanest beaches in Italy.",
+      "title5": "Casoni",
+      "description5": "A characteristic place to visit.",
+      "title6": "Thermae",
+      "description6": "Regenerate your strength with a visit to the thermal baths.",
+      "title7": "Miramare Castle",
+      "description7": "In a short distance you can reach Trieste and the Miramare Castle.",
+      "title8": "Venice",
+      "description8": "Visit the city of Venice and its tourist attractions.",
+      "title9": "Restaurants",
+      "description9": "After a fun-filled day, take a break and eat at one of our restaurants."
+    }
+  },
+  "ApartmentsPage": {
+    "title": "Apartments",
+    "description": "In Bibione you can choose among apartments for sale by various agencies. Here are some we offer.",
+    "apartaments": {
+      "title1": "Condominium City",
+      "position1": "Via Lemene, 49, Bibione, Italy",
+      "description1": "The City Condominium in Bibione Spiaggia offers spacious apartments located just 500m from the sea and the spa, in an area full of shops including supermarkets and bike rentals.",
+      "title2": "Condominium Ausonia by the Sea",
+      "position2": "Via Perseo, 80, Bibione, Italy",
+      "description2": "In Bibione, 400 meters from Lido dei Pini and 800 meters from Pluto Beach, Condominium Ausonia by the Sea - Gemini offers accommodation with free WiFi and flat-screen TV. Located 200 meters from Bibione Beach, the property features a terrace and free private parking.",
+      "title3": "Condominium Gir",
+      "position3": "Via Delfino, 131, Bibione, Italy",
+      "description3": "Condominium Gir in Bibione offers spacious apartments just 100m from the sea and the Lido dei Pini, in an area with many shops including supermarkets and bike rentals.",
+      "title4": "Condominium Cormoran",
+      "position4": "Via Veneto, 13, Bibione, Italy",
+      "description4": "Condominium Cormoran is located in the Bibione Lido del Sole area, 300 meters from Lido del Sole, 1 km from Bibione Pineda Beach, and 1 km from Bibione Beach."
+    }
+  },
+  "SalePage": {
+    "title": "Buy/Sell"
+  },
+  "Footer": {
+    "menu": "Menu",
+    "home": "Home",
+    "services": "Services",
+    "apartaments": "Apartments",
+    "sell": "Buy/Sell",
+    "company": "Company",
+    "about": "About Us",
+    "contact": "Contact",
+    "jobs": "Jobs",
+    "legal": "Legal",
+    "terms": "Terms",
+    "privacy": "Privacy Policy",
+    "cookie": "Cookie Policy",
+    "newsletter": "Newsletter",
+    "email": "Enter your email",
+    "subscribe": "Subscribe"
+  },
+  "contactPage": {
+  "title": "Contact Us",
+  "description": "Get in touch for more information about our offers",
+  "name": "Name",
+  "namePlaceholder": "Enter your name",
+  "email": "Email",
+  "emailPlaceholder": "Enter your email",
+  "message": "Message",
+  "messagePlaceholder": "Write your message.....",
+  "submit": "Send Message",
+  "success": "Message sent successfully",
+  "alert": "Please fill in all fields"
+}
+
+}

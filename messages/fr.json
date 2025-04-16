@@ -1,0 +1,98 @@
+{
+    "NavbarLinks": {
+      "home": "Accueil",
+      "homeTitle": "Page d'accueil",
+      "services": "Services",
+      "servicesTitle": "Page des services",
+      "apartaments": "Appartements",
+      "apartamentsTitle": "Page des appartements",
+      "sell": "Achat/Vente",
+      "sellTitle": "Page achat/vente",
+      "contact": "Contact",
+      "contactTitle": "Page de contact",
+      "button": "Connexion"
+    },
+    "HomePage": {
+      "title": "Agabry",
+      "description": "Une application simple qui vous permet de louer et de vendre des appartements",
+      "button": "Commençons"
+    },
+    "ServicesPage": {
+      "title": "Services",
+      "description": "Bibione propose de nombreux services pour vos vacances – de la planche à voile à la pêche, de la plage aux thermes, jusqu’à la visite de Venise et de ses attractions touristiques.",
+      "services": {
+        "title1": "Planche à voile",
+        "description1": "Cours de planche à voile pour tous les niveaux de compétition.",
+        "title2": "Pêche",
+        "description2": "Détendez-vous en plein air en pêchant.",
+        "title3": "Piste cyclable",
+        "description3": "Plus de 10 km de piste cyclable le long de la mer.",
+        "title4": "Plage",
+        "description4": "L'une des plus belles et propres plages d’Italie.",
+        "title5": "Casoni",
+        "description5": "Un lieu pittoresque à visiter.",
+        "title6": "Thermes",
+        "description6": "Régénérez vos forces avec une visite aux thermes.",
+        "title7": "Château de Miramare",
+        "description7": "À courte distance, vous atteignez Trieste et le Château de Miramare.",
+        "title8": "Venise",
+        "description8": "Visitez la ville de Venise et ses attractions touristiques.",
+        "title9": "Restaurants",
+        "description9": "Après une journée bien remplie, faites une pause et mangez dans l’un de nos restaurants."
+      }
+    },
+    "ApartmentsPage": {
+      "title": "Appartements",
+      "description": "À Bibione, vous pouvez choisir parmi les appartements mis en vente par différentes agences. En voici quelques-uns que nous vous proposons.",
+      "apartaments": {
+        "title1": "Condominium City",
+        "position1": "Via Lemene, 49, Bibione, Italie",
+        "description1": "Le Condominium City à Bibione Spiaggia propose des appartements spacieux à seulement 500 m de la mer et des thermes, dans une zone riche en commerces, y compris supermarchés et location de vélos.",
+        "title2": "Condominium Ausonia au bord de la mer",
+        "position2": "Via Perseo, 80, Bibione, Italie",
+        "description2": "À Bibione, à 400 mètres du Lido dei Pini et 800 mètres de la plage de Pluto, le Condominium Ausonia au bord de la mer – Gemini propose un hébergement avec Wi-Fi gratuit et télévision à écran plat. Situé à 200 mètres de la plage de Bibione, il dispose d'une terrasse et d’un parking privé gratuit.",
+        "title3": "Condominium Gir",
+        "position3": "Via Delfino, 131, Bibione, Italie",
+        "description3": "Le Condominium Gir à Bibione propose des appartements spacieux situés à seulement 100 m de la mer et du Lido dei Pini, dans une zone avec de nombreux commerces, y compris supermarchés et location de vélos.",
+        "title4": "Condominium Cormoran",
+        "position4": "Via Veneto, 13, Bibione, Italie",
+        "description4": "Le Condominium Cormoran est situé dans le quartier Bibione Lido del Sole, à 300 mètres du Lido del Sole, à 1 km de la plage de Bibione Pineda et à 1 km de la plage de Bibione."
+      }
+    },
+    "SalePage": {
+      "title": "Achat/Vente"
+    },
+    "Footer": {
+      "menu": "Menu",
+      "home": "Accueil",
+      "services": "Services",
+      "apartaments": "Appartements",
+      "sell": "Achat/Vente",
+      "company": "Entreprise",
+      "about": "À propos",
+      "contact": "Contact",
+      "jobs": "Emplois",
+      "legal": "Mentions légales",
+      "terms": "Conditions",
+      "privacy": "Politique de confidentialité",
+      "cookie": "Politique de cookies",
+      "newsletter": "Newsletter",
+      "email": "Entrez votre adresse email",
+      "subscribe": "S'abonner"
+    },
+    "contactPage": {
+  "title": "Contactez-nous",
+  "description": "Contactez-nous pour plus d'informations sur nos offres",
+  "name": "Nom",
+  "namePlaceholder": "Entrez votre nom",
+  "email": "Email",
+  "emailPlaceholder": "Entrez votre email",
+  "message": "Message",
+  "messagePlaceholder": "Écrivez votre message.....",
+  "submit": "Envoyer le message",
+  "success": "Message envoyé avec succès",
+  "alert": "Veuillez remplir tous les champs"
+}
+
+  }
+  
