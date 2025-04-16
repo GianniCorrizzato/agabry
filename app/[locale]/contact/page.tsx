@@ -2,6 +2,8 @@
 import { useTranslations } from 'next-intl';
 import React, { useState } from 'react';
 
+
+
 const ContactPage = () => {
   const [formData, setFormData] = useState({
     name: '',
@@ -10,7 +12,7 @@ const ContactPage = () => {
   });
   const [submitted, setSubmitted] = useState(false);
 
-  const handleChange = (e: { target: { name: any; value: any; }; }) => {
+  const handleChange = (e: { target: { name: string; value: string; }; }) => {
     setFormData(prev => ({
       ...prev,
       [e.target.name]: e.target.value

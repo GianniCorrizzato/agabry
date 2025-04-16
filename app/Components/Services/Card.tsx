@@ -1,7 +1,13 @@
 import Image from 'next/image'
 import React from 'react'
 
-const Card = ({image, title, description}: any) => {
+interface Props {
+  image: string,
+  title: string,
+  description: string
+}
+
+const Card = ({image, title, description}: Props) => {
   return (
     <div className="card bg-base-100 w-96 shadow-sm">
     

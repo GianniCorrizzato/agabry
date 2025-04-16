@@ -1,6 +1,17 @@
 import Image from "next/image";
 
-export default function PropertyCard({ property }: any) {
+
+interface Property {
+ id: number;
+  title: string;
+  description: string;
+  location: string;
+  price: string;
+  image: string;
+}
+
+
+export default function PropertyCard( property : Property) {
     return (
       <div className="bg-white shadow-md rounded-lg overflow-hidden">
         <Image
